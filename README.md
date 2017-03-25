@@ -1,1 +1,1 @@
-# LearnAngular2
+# LearnAngular
